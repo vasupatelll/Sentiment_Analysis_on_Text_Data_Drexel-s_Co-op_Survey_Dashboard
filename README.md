@@ -1,6 +1,6 @@
 ## 📌 Introduction :-
 
-Understood the students' views and, with that knowledge, provided actionable enhancements to improve the curriculum and better prepare students for their careers. Text mining in Python utilizing NLTK was applied to survey data to find key value insights that resulted in targeted improvements, which would successfully reduce negative sentiment and boost positive student feedback by 25%.
+Understood the students' views and, with that knowledge, provided actionable enhancements to improve the curriculum and better prepare students for their careers. Text mining in Python utilizing NLTK was applied to survey data to find key value insights that resulted in targeted improvements, which would successfully reduce negative sentiment and boost positive student feedback.
 The deliverables included a team definition of key performance indicators while advancing dashboard usability and design conception iterations to an improved product that would strengthen the connections between Drexel University and employers, while fostering a better student experience.
 
 ## 📎 Workflow :-
